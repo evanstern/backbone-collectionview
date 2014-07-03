@@ -1,0 +1,41 @@
+{
+  "name": "backbone-collectionview",
+  "version": "0.0.0",
+  "homepage": "https://github.com/evanstern/backbone-collectionview",
+  "authors": [
+    "(Evan Stern <suriansg@gmail.com>)"
+  ],
+  "description": "BackboneLayout based collection view",
+  "main": "backbone-collectionview.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "Backbone",
+    "Collection",
+    "BackboneLayout",
+    "CollectionView"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "backbone-layout": "~1.2.2",
+    "underscore": "~1.6.0",
+    "jquery": "~2.1.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "chai": "~1.9.1",
+    "sinonjs": "~1.10.2",
+    "requirejs": "~2.1.14",
+    "sinon-chai": "~2.5.0"
+  }
+}
