@@ -220,7 +220,7 @@
     }
   });
 
-  CollectionView.VERSION = '0.0.0';
+  CollectionView.VERSION = '0.1.0';
 
   return CollectionView;
 }));
