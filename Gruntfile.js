@@ -60,13 +60,10 @@ module.exports = function(grunt) {
       }
     },
 
-    copy: {
-    },
-
     preprocess: {
       core: {
         files: {
-          'backbone-collectionview.js': 'src/build/backbone-collectionview.js'
+          'backbone-collectionview.js': 'src/backbone-collectionview.js'
         }
       }
     },
