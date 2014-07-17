@@ -27,7 +27,9 @@
   // Keep this in sync with `package.json` and `bower.json`
   CollectionView.VERSION = '0.0.0';
 
-  // @include ../bc.core.js
+  // Blah
+  // Blah!
+  
 
   return CollectionView;
 }));
